@@ -2,7 +2,7 @@
 🔭 I’m currently working on a Django web application for my senior capstone<br>👯 I’m looking to collaborate on projects that promote social good<br>🤝 I’m looking for help with<br>🌱 I’m currently learning about parallel computing<br>💬 Ask me about<br>⚡ Fun fact
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/logan-smith-28965a2aa) 
 
 # 💻 Tech Stack:
