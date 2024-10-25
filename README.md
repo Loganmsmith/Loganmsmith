@@ -1,10 +1,10 @@
 # 💫 Hi, I'm Logan!
-🔭 I’m currently working on a Django web application for my senior capstone<br>👯
-I’m looking to collaborate on projects that promote social good<br>
-🤝 I’m looking for help with<br>
+🔭 I’m currently working on a Dash web application for my senior capstone<br>
+👯 I’m looking to collaborate on projects that promote social good<br>
+🤝 I’m looking for help with data visualization techniques for complex data sets<br>
 🌱 I’m currently learning about parallel computing<br>
 💬 Ask me about computer science pedagogy<br>
-⚡ Fun fact: I work full-time overnight while attaining my computer science education at Kansas State University
+⚡ Fun fact: I work full-time overnight while attaining my computer science education 
 
 
 # 🌐 Socials:
