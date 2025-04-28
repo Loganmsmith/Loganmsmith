@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Logan!
-🔭 I’m currently working on a Dash web application for my senior capstone<br>
+🔭 I’m currently working on a Python web app to help swim coaches view their team's data<br>
 👯 I’m looking to collaborate on projects that promote social good<br>
 🤝 I’m looking for help with data visualization techniques for complex data sets<br>
 🌱 I’m currently learning about parallel computing<br>
